@@ -210,11 +210,42 @@ A university project using **FastAPI** and **React**, with Redis and Varnish per
 
 Deployment, configuration, and maintenance of business-management tools, including **Dolibarr**, alongside website and infrastructure administration.
 
-## 📊 GitHub dashboard
 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=mkd555&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkd555&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=mkd555&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"> </p>
+## 📊 GitHub Dashboard
 
-*GitHub cards are provided by third-party services; availability and displayed metrics may vary.*
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=mkd555&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkd555&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Most used programming languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=mkd555&theme=github-dark-blue&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mkd555?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View-Public%20Repositories-181717?style=for-the-badge&logo=github"
+      alt="View public repositories"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <em>Statistics are generated dynamically from publicly available GitHub activity. Values may be cached or temporarily unavailable.</em>
+</p>
+
 
 ## 🎯 Current interests
 
