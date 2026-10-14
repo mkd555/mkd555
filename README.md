@@ -121,7 +121,9 @@ I'm a software engineer and full-stack developer with a background in informatio
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Infomaniak](https://img.shields.io/badge/Infomaniak-0098FF?style=flat-square&logo=icloud&logoColor=white)
 
+
 ### 🛡️ Networking & Cybersecurity
+
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
@@ -129,6 +131,20 @@ I'm a software engineer and full-stack developer with a background in informatio
 ![Fail2Ban](https://img.shields.io/badge/Fail2Ban-444444?style=flat-square&logo=linux&logoColor=white)
 ![Lynis](https://img.shields.io/badge/Lynis-Security-005571?style=flat-square&logo=linux&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+
+![DHCP](https://img.shields.io/badge/DHCP-Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-Management-0A66C2?style=flat-square&logo=cloudflare&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-Web_Server-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![FTP](https://img.shields.io/badge/FTP-File_Transfer-555555?style=flat-square&logo=files&logoColor=white)
+![Samba](https://img.shields.io/badge/Samba-File_Sharing-992E9B?style=flat-square&logo=samba&logoColor=white)
+
+![Snort IDS/IPS](https://img.shields.io/badge/Snort-IDS%2FIPS-EF3B2D?style=flat-square&logo=snort&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-Network_Security-B22222?style=flat-square&logo=fortinet&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW-Linux_Firewall-333333?style=flat-square&logo=ubuntu&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-293239?style=flat-square&logo=mikrotik&logoColor=white)
+
 
 ### 🤖 Artificial Intelligence & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
