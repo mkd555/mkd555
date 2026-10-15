@@ -155,6 +155,14 @@ I'm a software engineer and full-stack developer with a background in informatio
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
+
+### 🤖 AI & Prompt Engineering
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=flat-square&logo=probot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
+
 ### 🔧 Monitoring, Testing & API Tools
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
